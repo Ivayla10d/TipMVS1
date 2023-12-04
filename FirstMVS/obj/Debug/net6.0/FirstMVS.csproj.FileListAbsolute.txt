@@ -1,0 +1,15 @@
+C:\Ivayla11d\FirstMVS\FirstMVS\bin\Debug\net6.0\FirstMVS.exe
+C:\Ivayla11d\FirstMVS\FirstMVS\bin\Debug\net6.0\FirstMVS.deps.json
+C:\Ivayla11d\FirstMVS\FirstMVS\bin\Debug\net6.0\FirstMVS.runtimeconfig.json
+C:\Ivayla11d\FirstMVS\FirstMVS\bin\Debug\net6.0\FirstMVS.dll
+C:\Ivayla11d\FirstMVS\FirstMVS\bin\Debug\net6.0\FirstMVS.pdb
+C:\Ivayla11d\FirstMVS\FirstMVS\obj\Debug\net6.0\FirstMVS.csproj.AssemblyReference.cache
+C:\Ivayla11d\FirstMVS\FirstMVS\obj\Debug\net6.0\FirstMVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ivayla11d\FirstMVS\FirstMVS\obj\Debug\net6.0\FirstMVS.AssemblyInfoInputs.cache
+C:\Ivayla11d\FirstMVS\FirstMVS\obj\Debug\net6.0\FirstMVS.AssemblyInfo.cs
+C:\Ivayla11d\FirstMVS\FirstMVS\obj\Debug\net6.0\FirstMVS.csproj.CoreCompileInputs.cache
+C:\Ivayla11d\FirstMVS\FirstMVS\obj\Debug\net6.0\FirstMVS.dll
+C:\Ivayla11d\FirstMVS\FirstMVS\obj\Debug\net6.0\refint\FirstMVS.dll
+C:\Ivayla11d\FirstMVS\FirstMVS\obj\Debug\net6.0\FirstMVS.pdb
+C:\Ivayla11d\FirstMVS\FirstMVS\obj\Debug\net6.0\FirstMVS.genruntimeconfig.cache
+C:\Ivayla11d\FirstMVS\FirstMVS\obj\Debug\net6.0\ref\FirstMVS.dll
